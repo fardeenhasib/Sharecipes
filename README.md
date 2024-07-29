@@ -7,7 +7,6 @@
 - [Architecture](#architecture)
 - [Setup and Deployment](#setup-and-deployment)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
@@ -29,7 +28,7 @@ ShaReCipes is a simple web application that allows users to share and view recip
 - **Deployment**: AWS S3, AWS EC2, AWS CloudFront, Nginx
 
 ## Architecture
-![Architecture Diagram](path/to/your/architecture-diagram.png)
+![Architecture Diagram](architecture_sharecipe.png)
 
 1. **AWS S3**: Hosts the static files of the React.js frontend.
 2. **AWS EC2**: Hosts the Django backend.
