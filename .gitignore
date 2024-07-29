@@ -1,0 +1,125 @@
+# Node.js
+frontend/node_modules/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# React Build directory
+frontend/build/
+frontend/dist/
+
+# React Local environment files
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# React Log files
+frontend/logs/
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# React Editor directories and files
+frontend/.vscode/
+frontend/.idea/
+frontend/*.sublime-project
+frontend/*.sublime-workspace
+
+# React Dependency directories
+frontend/jspm_packages/
+
+# React Miscellaneous
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+
+# C extensions
+backend/*.so
+
+# Distribution / packaging
+backend/.Python
+backend/env/
+backend/venv/
+backend/ENV/
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+
+# Django stuff
+backend/*.log
+backend/*.pot
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/*.db
+backend/*.sqlite3
+
+# Caches
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+
+# Virtual Environment
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv/
+
+# Local settings
+backend/local_settings.py
+
+# Database
+backend/*.sqlite3
+
+# Static files
+backend/staticfiles/
+backend/media/
+
+# Django migrations
+backend/*.pyc
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/*.pyo
+backend/*.pyd
+backend/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.qa
+
+# Docker
+*.log
+*.lock
+
